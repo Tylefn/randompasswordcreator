@@ -1,5 +1,5 @@
 from random import randrange #Random number generator library
-def listToString(passwd):    #List to string function that I've copied from stackoverflow xd
+def listToString(passwd):    #List to string function that I've copied from https://www.geeksforgeeks.org/python-program-to-convert-a-list-to-string/
     str1 = ""   
     return (str1.join(passwd))
 
