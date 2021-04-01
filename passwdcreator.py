@@ -23,8 +23,3 @@ while (1):
                 passwd.append(charList[rand]) # Selects a random character in our charList 
             print(listToString(passwd),"\nis your password\n")
             exit(0)
-
-
-
-
-
